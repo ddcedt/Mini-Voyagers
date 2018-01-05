@@ -1,1 +1,1 @@
-# Mini-Voyager-1 & Mini-Voyager-2 schematic and board files
+# Mini-Voyager-1 & Mini-Voyager-2 EagleCAD schematic and board files
